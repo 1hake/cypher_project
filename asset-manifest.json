@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cypher-project/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cypher-project/static/js/main.27e67533.chunk.js",
+    "main.js.map": "/cypher-project/static/js/main.27e67533.chunk.js.map",
+    "runtime-main.js": "/cypher-project/static/js/runtime-main.c9de9721.js",
+    "runtime-main.js.map": "/cypher-project/static/js/runtime-main.c9de9721.js.map",
+    "static/js/2.5d00b276.chunk.js": "/cypher-project/static/js/2.5d00b276.chunk.js",
+    "static/js/2.5d00b276.chunk.js.map": "/cypher-project/static/js/2.5d00b276.chunk.js.map",
+    "index.html": "/cypher-project/index.html",
+    "precache-manifest.22859eb7166e9f77ee538036ffa49dbd.js": "/cypher-project/precache-manifest.22859eb7166e9f77ee538036ffa49dbd.js",
+    "service-worker.js": "/cypher-project/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/cypher-project/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5d00b276.chunk.js.LICENSE": "/cypher-project/static/js/2.5d00b276.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9de9721.js",
+    "static/js/2.5d00b276.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.27e67533.chunk.js"
+  ]
+}
