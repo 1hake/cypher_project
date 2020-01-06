@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cypher-project/static/css/main.d1b05096.chunk.css",
-    "main.js": "/cypher-project/static/js/main.27e67533.chunk.js",
-    "main.js.map": "/cypher-project/static/js/main.27e67533.chunk.js.map",
-    "runtime-main.js": "/cypher-project/static/js/runtime-main.c9de9721.js",
-    "runtime-main.js.map": "/cypher-project/static/js/runtime-main.c9de9721.js.map",
-    "static/js/2.5d00b276.chunk.js": "/cypher-project/static/js/2.5d00b276.chunk.js",
-    "static/js/2.5d00b276.chunk.js.map": "/cypher-project/static/js/2.5d00b276.chunk.js.map",
-    "index.html": "/cypher-project/index.html",
-    "precache-manifest.22859eb7166e9f77ee538036ffa49dbd.js": "/cypher-project/precache-manifest.22859eb7166e9f77ee538036ffa49dbd.js",
-    "service-worker.js": "/cypher-project/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/cypher-project/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.5d00b276.chunk.js.LICENSE": "/cypher-project/static/js/2.5d00b276.chunk.js.LICENSE"
+    "main.css": "/cypher_project/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cypher_project/static/js/main.6ae49051.chunk.js",
+    "main.js.map": "/cypher_project/static/js/main.6ae49051.chunk.js.map",
+    "runtime-main.js": "/cypher_project/static/js/runtime-main.f1d11d32.js",
+    "runtime-main.js.map": "/cypher_project/static/js/runtime-main.f1d11d32.js.map",
+    "static/js/2.5d00b276.chunk.js": "/cypher_project/static/js/2.5d00b276.chunk.js",
+    "static/js/2.5d00b276.chunk.js.map": "/cypher_project/static/js/2.5d00b276.chunk.js.map",
+    "index.html": "/cypher_project/index.html",
+    "precache-manifest.9adc676497c1dcfebe50a18696f09fb2.js": "/cypher_project/precache-manifest.9adc676497c1dcfebe50a18696f09fb2.js",
+    "service-worker.js": "/cypher_project/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/cypher_project/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5d00b276.chunk.js.LICENSE": "/cypher_project/static/js/2.5d00b276.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9de9721.js",
+    "static/js/runtime-main.f1d11d32.js",
     "static/js/2.5d00b276.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.27e67533.chunk.js"
+    "static/js/main.6ae49051.chunk.js"
   ]
 }
