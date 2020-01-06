@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cypher_project/precache-manifest.9adc676497c1dcfebe50a18696f09fb2.js"
+  "/cypher_project/precache-manifest.cc5638be4f257e553639a85bb41485e6.js"
 );
 
 self.addEventListener('message', (event) => {
