@@ -24,7 +24,13 @@ function Menu(props) {
       >
         {bpmList.map(bpm => (
           <div
-            onClick={() => props.setBpm(bpm)}
+            onClick={() => {
+              if (props.bpm === bpm) {
+                props.setBpm(null);
+              } else {
+                props.setBpm(bpm);
+              }
+            }}
             style={{
               fontFamily: "Barlow",
               fontSize: bpm === props.bpm ? "2em" : "1em",
@@ -46,7 +52,10 @@ function Menu(props) {
       >
         {levelList.map(level => (
           <div
-            onClick={() => props.setLevel(level)}
+            onClick={() => {
+              props.setBpm(null);
+              props.setLevel(level);
+            }}
             style={{
               fontFamily: "Barlow",
               fontSize: level === props.level ? "2em" : "1em",
